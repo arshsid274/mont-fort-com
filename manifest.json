@@ -1,0 +1,29 @@
+{
+  "source": "https://mont-fort.com",
+  "hostname": "mont-fort.com",
+  "capturedAt": "2026-06-24T07:50:49.967Z",
+  "routes": [
+    "/",
+    "/capital",
+    "/contact",
+    "/fort-energy",
+    "/maritime",
+    "/news",
+    "/privacy-policy",
+    "/terms-of-use",
+    "/trading",
+    "/who-we-are"
+  ],
+  "filesSaved": 312,
+  "bytesSaved": 21544410,
+  "exhaustive": true,
+  "audit": {
+    "referenced": 264,
+    "present": 263,
+    "missing": [
+      "https://www.googletagmanager.com/gtm.js?id="
+    ],
+    "external": [],
+    "backfilled": 192
+  }
+}
